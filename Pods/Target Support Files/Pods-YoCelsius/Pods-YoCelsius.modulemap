@@ -1,0 +1,6 @@
+framework module Pods_YoCelsius {
+  umbrella header "Pods-YoCelsius-umbrella.h"
+
+  export *
+  module * { export * }
+}
