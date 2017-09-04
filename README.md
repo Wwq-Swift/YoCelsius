@@ -1,4 +1,4 @@
-# 纯Swift YoCelsius
+# 纯Swift YoCelsius(只写了plus机型的适配)
 
 #直接下载打开YoCelsius.xcworkspace
 
